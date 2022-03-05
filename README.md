@@ -1,11 +1,12 @@
-# LAB - Criando um App para Apresentar seu Portfólio do GitHub
+# LAB - Criando um App para Apresentar seu Portfólio do GitHub✨
 O curso pode ser acessado na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
 
-✨ Meu Linkedin: linkedin.com/in/pedro-z-da-silva-1752a214a
+✨ Meu Linkedin: linkedin.com/in/pedro-z-da-silva-1752a214a ✨
 
-## <br />Descrição do Lab.
+##✨ COM AJUDA DO PROFESSOR e DESENVOLVEDOR EZEQUIEL MESSORE✨!
 
-Criei um App Android para apresentar os portfólios de projetos do GitHub de maneira elegante e simplificada. Nesse contexto, você passei por todo o processo de desenvolvimento usando o Kotlin, uma das linguagens de programação de maior ascensão nos últimos anos. Por fim, fui desafiado a entregar o próprio projeto, incorporando minhas evoluções e suas melhorias, com ajuda do professor Ezequiel Messore !
+## Descrição do Lab.✨
+Criei um App Android para apresentar os portfólios de projetos do GitHub de maneira elegante e simplificada. Nesse contexto, passei por todo o processo de desenvolvimento usando o Kotlin, uma das linguagens de programação de maior ascensão nos últimos anos. Por fim, fui desafiado a entregar o próprio projeto, incorporando minhas evoluções e suas melhorias , 
 
 ## Aulas e materiais de estudo.
 - Aula - 01: Apresentação pessoal e apresentação do curso.
